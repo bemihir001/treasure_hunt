@@ -1,6 +1,6 @@
 # treasure_hunt
 
-Round 1 - ViewFinder game ( 2 teleportations )
+Round 1 - ViewFinder game ( 2 teleportations ) \n
 Round 2 - Memes round
 Round 3 - Trivia (which is not available right now)
 Round 4 - Coding Round ( sample file attached in zip)
